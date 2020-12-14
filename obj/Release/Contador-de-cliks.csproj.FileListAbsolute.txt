@@ -1,0 +1,10 @@
+C:\Users\JuanFa Arias Jimenez\Desktop\Contador-de-cliks\bin\Release\Contador-de-cliks.exe.config
+C:\Users\JuanFa Arias Jimenez\Desktop\Contador-de-cliks\bin\Release\Contador-de-cliks.exe
+C:\Users\JuanFa Arias Jimenez\Desktop\Contador-de-cliks\bin\Release\Contador-de-cliks.pdb
+C:\Users\JuanFa Arias Jimenez\Desktop\Contador-de-cliks\obj\Release\Contador-de-cliks.csprojAssemblyReference.cache
+C:\Users\JuanFa Arias Jimenez\Desktop\Contador-de-cliks\obj\Release\Contador_de_cliks.Form1.resources
+C:\Users\JuanFa Arias Jimenez\Desktop\Contador-de-cliks\obj\Release\Contador_de_cliks.Properties.Resources.resources
+C:\Users\JuanFa Arias Jimenez\Desktop\Contador-de-cliks\obj\Release\Contador-de-cliks.csproj.GenerateResource.cache
+C:\Users\JuanFa Arias Jimenez\Desktop\Contador-de-cliks\obj\Release\Contador-de-cliks.csproj.CoreCompileInputs.cache
+C:\Users\JuanFa Arias Jimenez\Desktop\Contador-de-cliks\obj\Release\Contador-de-cliks.exe
+C:\Users\JuanFa Arias Jimenez\Desktop\Contador-de-cliks\obj\Release\Contador-de-cliks.pdb

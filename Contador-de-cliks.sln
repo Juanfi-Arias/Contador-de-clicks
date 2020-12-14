@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contador-de-cliks", "Contador-de-cliks.csproj", "{7B11A641-A658-45D4-95B3-4C84BE1C820B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_Contador de clicks", "..\Setup_Contador de clicks\Setup_Contador de clicks.vdproj", "{12594619-D905-48F0-9ED6-712ABCAB98A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B11A641-A658-45D4-95B3-4C84BE1C820B}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{7B11A641-A658-45D4-95B3-4C84BE1C820B}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{7B11A641-A658-45D4-95B3-4C84BE1C820B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B11A641-A658-45D4-95B3-4C84BE1C820B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12594619-D905-48F0-9ED6-712ABCAB98A2}.Debug|Any CPU.ActiveCfg = Debug
+		{12594619-D905-48F0-9ED6-712ABCAB98A2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A47DED4F-C748-41D7-A657-28D6FD2E18C8}
+	EndGlobalSection
+EndGlobal
